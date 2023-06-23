@@ -1,2 +1,9 @@
-package main;public class Main {
+package main;
+
+import calculator.Calculator;
+
+public class Main {
+    public static void main(String[] args) {
+        new Calculator();
+    }
 }
